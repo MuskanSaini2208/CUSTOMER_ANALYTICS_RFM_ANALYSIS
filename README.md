@@ -1,4 +1,6 @@
-# CUSTOMER_ANALYTICS_RFM_ANALYSIS
+# SegmentX
+
+Customer Analytics & RFM Segmentation
 
 An end-to-end data analytics project focused on understanding customer purchasing behaviour, measuring customer value, identifying churn risks, and supporting data-driven business decisions.
 

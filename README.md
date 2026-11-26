@@ -69,7 +69,17 @@ Defined the business problem, project scope, objectives, key requirements, and e
 - Identified inactive customers using a 90-day inactivity threshold.
 
 ### 4. Power BI Dashboard
-The next stage focuses on developing interactive dashboards to communicate customer insights, segment performance, purchasing behaviour, and churn-related metrics.
+The next stage focuses on developing interactive dashboards to communicate customer insights, segment performance, purchasing behaviour, and churn-related metrics. The dashboard uses DAX measures to calculate important business indicators.
+
+**Total Customers:** Counts distinct customer IDs.
+
+**Total Revenue:** Calculates the sum of transaction-level revenue.
+
+**Average Customer Value:** Measures average revenue per distinct customer, calculated by dividing total revenue by total customers.
+
+**Churn Percentage:** Calculates the proportion of distinct customers marked as churned relative to the total distinct customer base.
+
+These measures provide a consistent way to monitor customer and revenue performance.
 
 ## Customer Segmentation
 

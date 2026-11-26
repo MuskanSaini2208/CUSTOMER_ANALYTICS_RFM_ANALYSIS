@@ -30,37 +30,19 @@ The BRD covers:
 
 ## Tools & Technologies
 
-Tool
+**PostgreSQL** - Data storage, querying and preparation
 
-Purpose
+**pgAdmin** - Database management and SQL execution
 
-PostgreSQL
+**Python** - Customer analytics and RFM segmentation
 
-Data storage, querying and preparation
+**Pandas & NumPy** - Data manipulation and calculations
 
-pgAdmin
+**Google Colab** - Python development and execution
 
-Database management and SQL execution
+**Power BI** - Interactive dashboards and visualisation
 
-Python
-
-Customer analytics and RFM segmentation
-
-Pandas & NumPy
-
-Data manipulation and calculations
-
-Google Colab
-
-Python development and execution
-
-Power BI
-
-Interactive dashboards and visualisation
-
-DAX
-
-Business metrics and KPI calculations
+**DAX** - Business metrics and KPI calculations
 
 ## Project Workflow
 

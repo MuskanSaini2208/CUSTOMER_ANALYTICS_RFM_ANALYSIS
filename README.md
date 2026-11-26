@@ -28,13 +28,39 @@ The BRD covers:
 - Analyze customer purchasing patterns and revenue contribution.
 - Support targeted customer retention and engagement strategies.
 
-## Tech Stack
+## Tools & Technologies
 
-- **Database:** PostgreSQL, pgAdmin
-- **Programming:** Python
-- **Libraries:** Pandas, NumPy
-- **Business Intelligence:** Microsoft Power BI
-- **Documentation:** Business Requirements Document (BRD)
+Tool
+
+Purpose
+
+PostgreSQL
+
+Data storage, querying and preparation
+
+pgAdmin
+
+Database management and SQL execution
+
+Python
+
+Customer analytics and RFM segmentation
+
+Pandas & NumPy
+
+Data manipulation and calculations
+
+Google Colab
+
+Python development and execution
+
+Power BI
+
+Interactive dashboards and visualisation
+
+DAX
+
+Business metrics and KPI calculations
 
 ## Project Workflow
 
